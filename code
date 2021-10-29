@@ -1,0 +1,141 @@
+rules = {
+    "chapter_title": ["An Acrostic","Alone","The Bells", "The City in The Sea", "Deep in Earth", "The Divine Right of Kings", "A Dream", "Dream-Land", "A Dream Within a Dream", "Elizabeth", "Enigma", "Fairy-Land", "The Raven", "The Sleeper", "Sonnet"],
+    "sentence":[
+                "Love not — thou sayest it in so sweet a way. ",
+                "Ah! if that language from thy heart arise, Breath it less gently forth — and veil thine eyes. ",
+                "To cure his love . "
+                "His follie — pride — and passion — for he died. "
+                "My sorrow—I could not awaken, My heart to joy at the same tone. "
+                "Of a most stormy life."
+                "The mystery which binds me still. "
+                "What a world of merriment their melody foretells! "
+                "Golden bells! "
+                "From the jingling and the tinkling of the bells. "
+                "Keeping time, time, time... "
+                "What a world of happiness their harmony foretells! "
+                "To the turtle-dove that listens, while she gloats on the moon! "
+                "Of the bells, bells, bells, Of the bells, bells, bells, bells, bells, bells, bells, To the rhyming and the chiming of the bells! "
+                "How they scream out their affright! "
+                "Too much horrified to speak. "
+                "They can only shriek, shriek. Out of tune. "
+                "To the moaning and the groaning of the bells. "
+                "Death has reared himself a throne. "
+                "Where the good and the bad and the worst and the best, have gone to their eternal rest. "
+                "The melancholy waters lie. "
+                "Death looks gigantically down. "
+                "The wave—there is a movement there! "
+                "A void within the filmy Heaven. "
+                "Hell, rising from a thousand thrones, Shall do it reverence. "
+                "Deep in earth my love is, and I must weep alone."
+                "I’d strive for liberty no more, But hug the glorious chains I wore. "
+                "Her bosom is an ivory throne. "
+                "I’d worship Kings and kingly state, And hold this maxim all life long. "
+                "The King — my King — can do no wrong. "
+                "In visions of the dark night, I have dreamed of joy departed. "
+                "But a waking dream of life and light hath left me broken-hearted. "
+                "What could there be more purely bright In Truth's day-star? "
+                "That holy dream—that holy dream, While all the world were chiding, Hath cheered me as a lovely beam. "
+                "A lonely spirit guiding. "
+                "On a black throne reigns upright, I have reached these lands. "
+                "Out of SPACE—Out of TIME. "
+                "Into seas without a shore; Seas that restlessly aspire, Surging, unto skies of fire. "
+                "Their lone waters—lone and dead, Their still waters—still and chilly, With the snows of the lolling lily."
+                "Where dwell the Ghouls, By each spot the most unholy, In each nook most melancholy. "
+                "In agony, to the Earth—and Heaven. "
+                "Never its mysteries are exposed, To the weak human eye unclosed. "
+                "On a black throne reigns upright, I have wandered home but newly from this ultimate dim Thule. "
+                "Take this kiss upon the brow! "
+                "You are not wrong, who deem that my days have been a dream. "
+                "In a night, or in a day, In a vision, or in none, Is it therefore the less gone? "
+                "I stand amid the roar of a surf-tormented shore, and I hold within my hand grains of the golden sand. "
+                "O God! Can I not grasp Them with a tighter clasp? "
+                "O God! can I not save One from the pitiless wave? "
+                "Is all that we see or seem But a dream within a dream? "
+                "The muses thro’ their bowers of Truth or Fiction. "
+                "Being ignorant of one important rule, Employed in even the theses of the school. "
+                "Always write first things uppermost in the heart. "
+                "A pleasing moralist whose page refined, Displays the deepest knowledge of the mind. "
+                "A bard of brilliant but unlicensed page. At once the shame and glory of our age. "
+                "The bard that paints imagination’s powers, And him whose song revives departed hours. "
+                "Once more an ancient tragic bard recall, In boldness of design surpassing all. "
+                "Whose forms we can’t discover, For the tears that drip all over. "
+                "Huge moons there wax and wane—Again—again—again—Every moment of the night—Forever changing places—And they put out the star-light, With the breath from their pale faces. "
+                "In a labyrinth of light—And then, how, deep. "
+                "They use that moon no more, For the same end as before. "
+                "Of Earth, who seek the skies, And so come down again, Have brought a specimen, Upon their quivering wings. "
+                "Once upon a midnight dreary, while I pondered, weak and weary, Over many a quaint and curious volume of forgotten lore. "
+                "Eagerly I wished the morrow;—vainly I had sought to borrow. From my books surcease of sorrow—sorrow for the lost Lenore. "
+                "And the silken, sad, uncertain rustling of each purple curtain, thrilled me, filled me with fantastic terrors never felt before. "
+                "’Tis the wind and nothing more! "
+                "In there stepped a stately Raven of the saintly days of yore. "
+                "But the Raven still beguiling all my fancy into smiling, Straight I wheeled a cushioned seat in front of bird, and bust and door. "
+                "The rosemary nods upon the grave; The lily lolls upon the wave; Wrapping the fog about its breast, The ruin moulders into rest. "
+                "Oh, lady dear, hast thou no fear? "
+                "Why and what art thou dreaming here? "
+                "It was the dead who groaned within. "
+                "How should he love thee? or how deem thee wise, Who wouldst not leave him in his wandering, To seek for treasure in the jewelled skies. "
+                "The summer dream beneath the tamarind tree? "
+
+
+
+
+    ],
+    "paragraph":[
+                "#sentence##sentence##sentence##sentence##sentence#\n\n",
+                "#sentence##sentence##sentence#\n\n",
+                "#sentence##sentence##sentence##sentence##sentence##sentence#\n\n",
+                "#sentence##sentence##sentence##sentence#\n\n"
+    ],
+    "chapter":[
+               "#paragraph##paragraph##paragraph##paragraph##paragraph##paragraph##paragraph##paragraph#",
+               "#paragraph##paragraph##paragraph##paragraph##paragraph##paragraph##paragraph#",
+               "#paragraph##paragraph##paragraph##paragraph##paragraph##paragraph#",
+               "#paragraph"
+    ],
+     "origin":"""
+      
+\# My Tracery Book
+
+\#\# #chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+#chapter_title#
+
+#chapter#
+
+    """
+}
+
+grammar = tracery.Grammar(rules)
+grammar.add_modifiers(base_english)
+
+novel = grammar.flatten("#origin#")
